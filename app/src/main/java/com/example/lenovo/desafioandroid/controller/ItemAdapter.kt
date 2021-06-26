@@ -43,4 +43,3 @@ class ItemAdapter(val content: ItemResponse) : RecyclerView.Adapter<RecyclerView
 
 class CustomViewHolder(val view: View) : RecyclerView.ViewHolder(view) {
 }
-
